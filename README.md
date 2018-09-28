@@ -2,13 +2,13 @@
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: COURSE TITLE ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
 
-# `<COURSE TITLE>`
+# COURSE TITLE
 
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: WELCOME ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
 
-Welcome to the course repository for `<COURSE TITLE>`, `<WINTER>/<SPRING> <YEAR>`, a course for `<NYU's ITP program>`.
+Welcome to the course repository for `COURSE TITLE`, `WINTER>/SPRING YEAR`, a course for `NYU's ITP program`.
 
 
 ### INSTRUCTOR
@@ -17,7 +17,7 @@ Welcome to the course repository for `<COURSE TITLE>`, `<WINTER>/<SPRING> <YEAR>
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: INSTRUCTOR NAME ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
 
-`<YOUR NAME>`
+YOUR NAME
 
 
 ### DESCRIPTION
@@ -31,6 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 Read on for the:
-- [syllabus](SYLLABUS.md)
-- [materials](MATERIALS.md)
-- lectures/exercises in this repository.
+- [Syllabus](SYLLABUS.md) - all the information about the course
+- [Course Calendar](SYLLABUS.md#calendar) - week-to-week calendar and materials
+- [materials](MATERIALS.md) 

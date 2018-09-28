@@ -1,4 +1,4 @@
-# `COURSE TITLE: COURSE SUBTITLE`
+# COURSE TITLE: COURSE SUBTITLE
 
 
 * [**Link to the NYU course listing**](link/to/nyu/course/listing)
@@ -51,6 +51,8 @@
 ***
 ## CALENDAR
 ***
+
+Below are the topics for each week. The class pages, linked by each week, detail the topics to be covered that week and the assignments for the following week.
 
 NOTE: the `Assignment due` point indicates what is due on that week after having been assigned previously. In other words, please submit the assignment **before class** that week.
 
@@ -149,9 +151,9 @@ NOTE: the `Assignment due` point indicates what is due on that week after having
 
 See [MATERIALS.md](MATERIALS.md) for details on course materials and resources such as readings, watchables, inspiration, and more.
 
-
+***
 ## DESCRIPTION
-
+***
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: LONGER COURSE DESCRIPTION ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
@@ -163,7 +165,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## WORK
+#### WORK
 
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: UPDATE WORK ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
@@ -179,7 +181,7 @@ Students will:
 5. Make a `final project` that demonstrates `x, y, and z`
 
 
-## LEARNING OUTCOMES
+#### LEARNING OUTCOMES
 
 <!-- EXAMPLE
 
@@ -201,14 +203,59 @@ At the end of the course, student will likely:
 - `have the ability to do Z`
 
 
+***
+## CLASS EXPECTATIONS
+***
 
-## GRADING
+#### Assignments
+<!--
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Assignments expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+-->
+
+There are assignments in this course, make sure to check the class page for the corresponding week to see the requirements for the assignments and their due dates.
+
+
+#### Documentation
+<!--
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Documentation expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+-->
+
+You’ll also be expected to document your progress in the class online in a regular blog as you go. At a minimum, you’re expected to summarize any insights you have in each week’s lab assignments, and to document your production projects and technical research thoroughly. You can find guidelines for good documentation, and several examples, on the Journals & Documentation page.
+
+<!--
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Replace with relevant link if necessary ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+-->
+
+* [Journals & Documentation page](https://itp.nyu.edu/physcomp/itp/syllabus/journals-documentation/)
+
+#### Readings And References
+<!--
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Readings expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+-->
+
+Topic notes to be covered each week are linked on that week’s class page. Read each week’s material before class and prepare questions.
+
+**Prepare for class in advance. Review the material to be covered that week, and come to class with questions prepared about that class’s material. If you have no questions, be prepared to show your work.**
+
+#### Commenting on Each Other's work
+<!--
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Commenting expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+-->
+
+Supporting your classmates through feedback on their work is an important part of the class, and an important part of your participation grade. When watching your classmates present their work in class, we’ll make some time for verbal comments, but you should take written notes on their presentations as well. Offer suggestions on what they did well and should continue doing, what they should stop doing, and what they could add to their work and/or their presentation to make it better. Give them these notes at the end of class. You’ll be getting the same notes from your classmates, so write in the same voice in which you’d like to hear feedback on your own work.
+
+
+***
+## CLASS POLICIES
+***
 
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: GRADING POLICY ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
 
-You will be evaluated on effort, personal progress and growth, class participation, assignments, and the final project. You will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peer reviewers, and your ability to justify your decisions thoughtfully.
+#### Grading
+
+The most important thing you can do is arrive to each class on time and be prepared to actively participate, with questions, stories of setbacks or successes you encountered in the lab, and interesting material and events related to `topic X` you’ve found. Each week, you should put in adequate time to really digest and then apply the material. We’re unimpressed by last-minute cramming. Floor 4 is the best place to do your class work, as you’ll be surrounded by your peers tackling the same topics, and you’ll have access to second-years, residents, and full-time faculty. Our time together each week, and your access to the 4th floor, is what distinguishes studying at ITP from, say, just reading the internet.
 
 GRADE CALCULATION:
 Here is a basic breakdown of graded tasks along that trajectory:
@@ -216,6 +263,11 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * `##`% Assignments
 * `##`% Final Project, completed on conclusion of the course
 * TOTAL: 100%
+
+#### Participation and Attendance
+
+Showing up on time, engaging in the class discussion, and offering advice and critique on other projects in the class is a major part of your grade. Please be present and prompt. Lateness will hurt your grade. If you’re going to be late or absent, please email your instructor in advance. If you have an emergency, please let your instructor know as soon as you can. Please turn in assignments on time as well.
+
 
 
 ***
