@@ -148,6 +148,7 @@ NOTE: the `Assignment due` point indicates what is due on that week after having
 
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Update links to student blogs ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+Depending on how you decide for students to submit their work, you might consider just having student submit a blog url to check for their weekly assignments and blog posts
 -->
 
 - First Last | [link to blog]()
