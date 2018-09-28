@@ -74,60 +74,60 @@ NOTE: the `Assignment due` point indicates what is due on that week after having
 | [Week 14]() |          |           |         | ...       | -->
 
 
-- [Week 1](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 1](week01.md): topic of the week
+  - **Assignment Due**: [link to assignment](week01.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 2](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 2](week02.md): topic of the week
+  - **Assignment Due**: [link to assignment](week02.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 3](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 3](week03.md): topic of the week
+  - **Assignment Due**: [link to assignment](week03.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 4](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 4](week04.md): topic of the week
+  - **Assignment Due**: [link to assignment](week04.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 5](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 5](week05.md): topic of the week
+  - **Assignment Due**: [link to assignment](week05.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 6](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 6](week06.md): topic of the week
+  - **Assignment Due**: [link to assignment](week06.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 7](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 7](week07.md): topic of the week
+  - **Assignment Due**: [link to assignment](week07.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 8](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 8](week08.md): topic of the week
+  - **Assignment Due**: [link to assignment](week08.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 9](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 9](week09.md): topic of the week
+  - **Assignment Due**: [link to assignment](week09.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 10](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 10](week10.md): topic of the week
+  - **Assignment Due**: [link to assignment](week10.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 11](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 11](week11.md): topic of the week
+  - **Assignment Due**: [link to assignment](week11.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 12](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 12](week12.md): topic of the week
+  - **Assignment Due**: [link to assignment](week12.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 13](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 13](week13.md): topic of the week
+  - **Assignment Due**: [link to assignment](week13.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
-- [Week 14](): topic of the week
-  - **Assignment Due**: [link to assignment]()
+- [Week 14](week14.md): topic of the week
+  - **Assignment Due**: [link to assignment](week14.md#assignment)
   - **Dates**: `DD, Month, YYYY`
   - **Notes**:
 
