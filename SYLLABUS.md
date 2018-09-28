@@ -143,6 +143,26 @@ NOTE: the `Assignment due` point indicates what is due on that week after having
 * ...
 
 ***
+## STUDENT BLOGS
+***
+
+<!--
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Update links to student blogs ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+-->
+
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+- First Last | [link to blog]()
+
+
+***
 ## MATERIALS
 ***
 <!--
