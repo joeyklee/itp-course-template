@@ -31,6 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 Read on for the:
-- [Syllabus](SYLLABUS.md) - all the information about the course
-- [Course Calendar](SYLLABUS.md#calendar) - week-to-week calendar and materials
-- [materials](MATERIALS.md) 
+- [Syllabus](SYLLABUS.md) -- all the information about the course
+- [Course Calendar](SYLLABUS.md#calendar) -- week-to-week calendar
+- [Materials](MATERIALS.md) -- list of course materials and references
