@@ -7,6 +7,7 @@
 
 <!-- [![Join the chat at https://gitter.im/joeyklee/quant-humanists-2018](https://badges.gitter.im/joeyklee/quant-humanists-2018.svg)](https://gitter.im/joeyklee/quant-humanists-2018?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
+
 ***
 ## COURSE LOGISTICS
 ***
@@ -228,7 +229,7 @@ At the end of the course, student will likely:
 ## CLASS EXPECTATIONS
 ***
 
-### Assignments
+### ASSIGNMENTS
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Assignments expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
@@ -236,7 +237,7 @@ At the end of the course, student will likely:
 There are assignments in this course, make sure to check the class page for the corresponding week to see the requirements for the assignments and their due dates.
 
 
-### Documentation
+### DOCUMENTATION
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Documentation expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
@@ -249,7 +250,7 @@ You’ll also be expected to document your progress in the class online in a reg
 
 * [Journals & Documentation page](https://itp.nyu.edu/physcomp/itp/syllabus/journals-documentation/)
 
-### Readings And References
+### READINGS AND REFERENCES
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Readings expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
@@ -258,7 +259,7 @@ Topic notes to be covered each week are linked on that week’s class page. Read
 
 **Prepare for class in advance. Review the material to be covered that week, and come to class with questions prepared about that class’s material. If you have no questions, be prepared to show your work.**
 
-### Commenting on Each Other's work
+### COMMENTING ON EACH OTHER'S WORK
 <!--
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: Commenting expectations via Tom Igoe ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
@@ -274,7 +275,7 @@ Supporting your classmates through feedback on their work is an important part o
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ TODO: GRADING POLICY ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 -->
 
-### Grading
+### GRADING
 
 The most important thing you can do is arrive to each class on time and be prepared to actively participate, with questions, stories of setbacks or successes you encountered in the lab, and interesting material and events related to `topic X` you’ve found. Each week, you should put in adequate time to really digest and then apply the material. We’re unimpressed by last-minute cramming. Floor 4 is the best place to do your class work, as you’ll be surrounded by your peers tackling the same topics, and you’ll have access to second-years, residents, and full-time faculty. Our time together each week, and your access to the 4th floor, is what distinguishes studying at ITP from, say, just reading the internet.
 
@@ -285,7 +286,7 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * `##`% Final Project, completed on conclusion of the course
 * TOTAL: 100%
 
-### Participation and Attendance
+### PARTICIPATION AND ATTENDANCE
 
 Showing up on time, engaging in the class discussion, and offering advice and critique on other projects in the class is a major part of your grade. Please be present and prompt. Lateness will hurt your grade. If you’re going to be late or absent, please email your instructor in advance. If you have an emergency, please let your instructor know as soon as you can. Please turn in assignments on time as well.
 
